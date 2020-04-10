@@ -44,3 +44,6 @@ e/叹词 o/拟声词 g/语素 w/标点 x/其它
 
 ## 初步展示
 
+![alt text](https://github.com/wangyz1999/Chinese-format-preserving-encryption/blob/master/demo/1.PNG)
+![alt text](https://github.com/wangyz1999/Chinese-format-preserving-encryption/blob/master/demo/2.PNG)
+![alt text](https://github.com/wangyz1999/Chinese-format-preserving-encryption/blob/master/demo/3.PNG)
