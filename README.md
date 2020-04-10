@@ -24,8 +24,8 @@ Aiming to use Feistel-based encryption (FFX) algorithm and THULA (THU Lexical An
 加密：他6月12号的傍晚与湖南吃掉了两条红鱼
 解密：我3月27号的下午在北京看见了一只小狗
 
-原话分词: 我_r 3月_t 27号_t 的_u 下午_t 在_p 北京_ns 看见_v 了_u 一_m 只_q 小_q 狗_n
-加密分词: 他_r 6月_t 12号_t 的_u 傍晚_t 与_p 湖南_ns 吃掉_v 了_u 两_m 条_q 红_q 鱼_n
+原话分词: 我_r 3月_t 27号_t 的_u 下午_t 在_p 北京_ns 看见_v 了_u 一_m 只_q 小_a 狗_n
+加密分词: 他_r 6月_t 12号_t 的_u 傍晚_t 与_p 湖南_ns 吃掉_v 了_u 两_m 条_q 红_a 鱼_n
 ```
 
 ## 解释 
