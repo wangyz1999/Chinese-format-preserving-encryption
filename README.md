@@ -13,7 +13,8 @@ Aiming to use Feistel-based encryption (FFX) algorithm and THULA (THU Lexical An
 
 ## 连接
 
-[THULAC：一个高效的中文词法分析工具包] (https://github.com/thunlp/THULAC-Python)
+[THULAC：一个高效的中文词法分析工具包](https://github.com/thunlp/THULAC-Python)
+
 [pyffx](https://github.com/emulbreh/pyffx/)
 
 ## 期望效果
